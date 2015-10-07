@@ -10,7 +10,7 @@ Sample website with plenty of files for demos and learning
 Testing the github and learning on Git technology for self development and knowledge
 
 ## How to contribute
-Just watch and correct me
+Please fork this repository and the issue pull request for review
 
 ##Copyright
 2015 Ameensom
