@@ -11,3 +11,6 @@ Testing the github and learning on Git technology for self development and knowl
 
 ## How to contribute
 Just watch and correct me
+
+##Copyright
+2015 Ameensom
