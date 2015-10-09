@@ -14,4 +14,4 @@ Testing the github and learning on Git technology for self development and knowl
 Please fork this repository and the issue pull request for review
 
 ##Copyright
-2015 Ameensom
+2015 Ameensom , All rights reserved
